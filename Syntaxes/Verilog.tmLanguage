@@ -7,10 +7,6 @@
 		<string>v</string>
 		<string>vh</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>^[^/]*-?(?!/)\s*(begin|^\s*case(x|z)?|^\s*module|^`ifdef)\b</string>
-	<key>foldingStopMarker</key>
-	<string>\s*(end(case|module)?|`endif)\b</string>
 	<key>keyEquivalent</key>
 	<string>^~V</string>
 	<key>name</key>
